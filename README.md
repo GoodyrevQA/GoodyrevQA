@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Gudyrev @GoodyrevQA
 - 👀 I’m interested in QA and programming in general
-- 🌱 I’m currently learning a lot right now, and the main focus is on Python
+- 🌱 I’m learning a lot right now, and the main focus is on Python
 - 📫 How to reach me: [t.me/goodyrev](https://t.me/goodyrev)
 
 <!---
