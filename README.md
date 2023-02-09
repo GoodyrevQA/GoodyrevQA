@@ -2,7 +2,7 @@
 
 ## QA Engineer & Python researcher
 
-Languages and Tools:
+### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-181616??style=for-the-badge&logo=Python&logoColor=47c5fb)
 ![Selenium](https://img.shields.io/badge/-Selenium-181616??style=for-the-badge&logo=Selenium&logoColor=00bf0d)
 ![DevTools](https://img.shields.io/badge/-DevTools-181616??style=for-the-badge&logo=googlechrome&logoColor=ff0000)
@@ -11,8 +11,7 @@ Languages and Tools:
 ![SQL](https://img.shields.io/badge/-MySQL-181616??style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-181616??style=for-the-badge&logo=Swagger&logoColor=0cff00)
 ![Cypress](https://img.shields.io/badge/-Cypress-181616??style=for-the-badge&logo=Cypress&logoColor=ffffff)
-![JMeter](https://img.shields.io/badge/-JMeter-181616??style=for-the-badge&logo=JMeter&logoColor=f33900)
+![...](https://img.shields.io/badge/-...-181616??style=for-the-badge&logo=...&logoColor=ffffff)
 
-
-
-Socials:
+### For communication:
+[![Telegram](https://img.shields.io/badge/-Telegram-181616??style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/Goodyrev)
