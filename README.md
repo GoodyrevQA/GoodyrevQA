@@ -11,10 +11,8 @@
 ![SQL](https://img.shields.io/badge/-MySQL-24292f??style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)
 ![Cypress](https://img.shields.io/badge/-Cypress-24292f??style=for-the-badge&logo=Cypress&logoColor=ffffff)
-![HTTP](https://img.shields.io/badge/-HTTP-24292f??style=for-the-badge&logo=HTTP&logoColor=ffffff)
-![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ffffff)
-![Agile](https://img.shields.io/badge/-Agile-24292f??style=for-the-badge&logo=Agile&logoColor=ffffff)
-![linux](https://img.shields.io/badge/-linux-24292f??style=for-the-badge&logo=linux&logoColor=ffffff)
+![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)
+![linux](https://img.shields.io/badge/-linux-24292f??style=for-the-badge&logo=linux&logoColor=fff600)
 ![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=ffffff)
 ![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)
 
