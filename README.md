@@ -16,4 +16,4 @@
 ### For communication:
 [![Telegram](https://img.shields.io/badge/-Telegram-181616??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/Goodyrev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodyrevQA&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodyrevQA&hide=issues,contribs&show_icons=true&theme=dark)]
