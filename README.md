@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-24292f??style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)
-![Cypress](https://img.shields.io/badge/-Cypress-24292f??style=for-the-badge&logo=Cypress&logoColor=ffffff)
+![Cypress](https://img.shields.io/badge/-Cypress-24292f??style=for-the-badge&logo=Cypress&logoColor=d2d2d2)
 ![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)
 ![Linux](https://img.shields.io/badge/-linux-24292f??style=for-the-badge&logo=linux&logoColor=fff600)
 ![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=ffffff)
