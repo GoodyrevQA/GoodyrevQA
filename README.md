@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-24292f??style=for-the-badge&logo=Python&logoColor=47c5fb)
-![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)
+[![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
 ![DevTools](https://img.shields.io/badge/-DevTools-24292f??style=for-the-badge&logo=googlechrome&logoColor=ff0000)
 ![Postman](https://img.shields.io/badge/-Postman-24292f??style=for-the-badge&logo=Postman&logoColor=ff6c36)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292f??style=for-the-badge&logo=GitHub&logoColor=ffffff)
