@@ -1,7 +1,7 @@
-Header
+![Header]
 
-About me
+About me:
 
-Languages and Tools
+Languages and Tools:
 
-Socials
+Socials:
