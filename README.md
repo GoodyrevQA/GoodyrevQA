@@ -14,6 +14,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=003cd6)
 ![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)
 ![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=Allure&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=Qase&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=html5&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=css3&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=androidstudio&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=rest&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=pytest&logoColor=fff600)
 ![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)
 
 ### For communication:
