@@ -14,7 +14,7 @@
 [![pytest](https://img.shields.io/badge/-pytest-24292f??style=for-the-badge&logo=pytest&logoColor=0099d9)](https://github.com/GoodyrevQA/python_autotests)
 ![DevTools](https://img.shields.io/badge/-DevTools-24292f??style=for-the-badge&logo=googlechrome&logoColor=fff600)
 ![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)
-![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=003cd6)
+![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=0487af)
 ![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)
 ![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=fff600)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-24292f??style=for-the-badge&logo=androidstudio&logoColor=79ae42)
