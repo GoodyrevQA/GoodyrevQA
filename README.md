@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)
 ![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=0487af)
 ![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)
-![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=fff600)
+![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=ffffff)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-24292f??style=for-the-badge&logo=androidstudio&logoColor=79ae42)
 ![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)
 
