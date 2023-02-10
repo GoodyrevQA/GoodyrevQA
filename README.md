@@ -5,7 +5,7 @@
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-24292f??style=for-the-badge&logo=Python&logoColor=47c5fb)](https://github.com/GoodyrevQA/python_tg_bot)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-24292f??style=for-the-badge&logo=JavaScript&logoColor=fff600)](https://github.com/GoodyrevQA/SnakeQA)
-[![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)](https://miro.com/app/board/uXjVPDev4I8=/)
+[![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)](https://miro.com/app/board/uXjVP_77u_w=/)
 [![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
 [![HTML5](https://img.shields.io/badge/-HTML5-24292f??style=for-the-badge&logo=html5&logoColor=f68442)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
 [![CSS3](https://img.shields.io/badge/-CSS3-24292f??style=for-the-badge&logo=css3&logoColor=265eaa)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
