@@ -15,6 +15,8 @@
 [![DevTools](https://img.shields.io/badge/-DevTools-24292f??style=for-the-badge&logo=googlechrome&logoColor=fff600)](https://github.com/GoodyrevQA)
 [![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/GoodyrevQA)
 [![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=0487af)](https://github.com/GoodyrevQA)
+[![Visual](https://img.shields.io/badge/-VisualStudioCode-24292f??style=for-the-badge&logo=Visualstudiocode&logoColor=0cff00)](https://github.com/GoodyrevQA)
+[![Notion](https://img.shields.io/badge/-Notion-24292f??style=for-the-badge&logo=Notion&logoColor=0cff00)](https://github.com/GoodyrevQA)
 [![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)](https://github.com/GoodyrevQA)
 [![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=ffffff)](https://github.com/GoodyrevQA)
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-24292f??style=for-the-badge&logo=androidstudio&logoColor=79ae42)](https://github.com/GoodyrevQA)
