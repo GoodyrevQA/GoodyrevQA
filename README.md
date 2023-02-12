@@ -20,6 +20,9 @@
 [![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)](https://github.com/GoodyrevQA)
 [![Linux](https://img.shields.io/badge/-Linux-24292f??style=for-the-badge&logo=linux&logoColor=ffffff)](https://github.com/GoodyrevQA)
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-24292f??style=for-the-badge&logo=androidstudio&logoColor=79ae42)](https://github.com/GoodyrevQA)
+[![Allure](https://img.shields.io/badge/-Allure-24292f??style=for-the-badge&logo=Allurer&logoColor=0cff00)](https://github.com/GoodyrevQA)
+[![JMeter](https://img.shields.io/badge/-JMeter-24292f??style=for-the-badge&logo=JMeter&logoColor=ffffff)](https://github.com/GoodyrevQA)
+[![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=79ae42)](https://github.com/GoodyrevQA)
 [![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)](https://github.com/GoodyrevQA?tab=repositories)
 
 ### For communication:
